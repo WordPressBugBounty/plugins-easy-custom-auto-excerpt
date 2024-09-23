@@ -1,0 +1,1 @@
+# plugins-easy-custom-auto-excerpt
